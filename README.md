@@ -1,4 +1,4 @@
-### Hi, I'm Cynthia, a UX designer and intro-level programmer, welcome to my profile!     
+### ♡︎ Hi, I'm Cynthia, a UX designer and intro-level programmer, welcome to my profile! ♡︎    
                                          ╱|、
                                         (˚ˎ 。7  
                                          |、˜〵          
