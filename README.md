@@ -1,7 +1,8 @@
-### Hi, I'm Cynthia, a UX designer and intro-level programmer, welcome to my profile!     ╱|、
-                                                                                          (˚ˎ 。7  
-                                                                                           |、˜〵          
-                                                                                          じしˍ,)ノ
+### Hi, I'm Cynthia, a UX designer and intro-level programmer, welcome to my profile!     
+                                         ╱|、
+                                        (˚ˎ 。7  
+                                         |、˜〵          
+                                         じしˍ,)ノ
 
 <!--
 **CynTheUhh/CynTheUhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
