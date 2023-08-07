@@ -24,6 +24,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/CynTheUhh/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CynTheUhh&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/CynTheUhh/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CynTheUhh&repo=convoychat" />
-</a>
